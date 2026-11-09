@@ -1,5 +1,7 @@
 # GSAP Creative Engineering
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
+
 A reusable Agent Skill for designing, implementing, auditing, and visually validating distinctive, production-grade GSAP experiences in modern web applications.
 
 This skill focuses on the **creative direction and engineering decisions around animation**: selecting the right interaction model for each section, building meaningful scroll-led experiences, creating visual depth, and keeping every layout responsive, accessible, performant, and readable.
@@ -97,4 +99,10 @@ The skill prioritizes current primary sources and treats inspiration examples as
 
 ## License
 
-No license is currently granted by this repository. Unless a license is added, all rights are reserved by the copyright holder. You may inspect the public repository, but redistribution, modification, or commercial reuse is not licensed by default.
+This repository is licensed under the **MIT License**. You are free to use, copy, modify, merge, publish, distribute, sublicense, and sell copies of the repository and its contents, subject to the conditions in the license.
+
+The main condition is that the copyright notice and permission notice must be included in all copies or substantial portions of the software.
+
+See the full text in [`LICENSE`](./LICENSE).
+
+Copyright (c) 2026 Mahmoud Essam.
